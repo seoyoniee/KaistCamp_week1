@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week1</string>
+    <string name="json_data">
+    [ { \"name\": \"Maya D. Reeves\", \"phone\": \"077-379-6539\", \"email\": \"sem.semper.erat@et.net\" },
+        { \"name\": \"Vincent P. Hansen\", \"phone\": \"034-444-1529\", \"email\": \"aptent@Utnecurna.com\" },
+        { \"name\": \"Julian H. Strickland\", \"phone\": \"032-903-7513\", \"email\": \"dis@nibh.co.uk\" }]
+    </string>
+</resources>
